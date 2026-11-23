@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:1F1F1F,100:3A3A3A&height=220&section=header&text=Nath%20Kash&fontSize=56&fontColor=F2F2F2&animation=fadeIn" width="100%" alt="Bannière" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:1F1F1F,100:3A3A3A&height=220&section=header&text=Nath_Kash&fontSize=56&fontColor=F2F2F2&animation=fadeIn" width="100%" alt="Bannière" />
 
 <br>
 
@@ -41,12 +41,19 @@
 
 <br><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141414,100:3A3A3A&height=55&section=header&text=Comment%20me%20joindre&fontSize=24&fontColor=E6E6E6&animation=fadeIn" width="100%" alt="Comment me joindre" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141414,100:3A3A3A&height=55&section=header&text=Me%20contacter&fontSize=24&fontColor=E6E6E6&animation=fadeIn" width="100%" alt="Me contacter" />
 
-<br><br>
+<br>
 
-<a href="mailto:nathmwanza@icloud.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+<p>
+  Pour une collaboration ou une question sur un projet,<br>
+  ouvre une issue sur l'un de mes dépôts.
+</p>
+
+<br>
+
+<a href="https://github.com/Nathkash?tab=repositories">
+  <img src="https://img.shields.io/badge/Mes%20d%C3%A9p%C3%B4ts-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mes dépôts" />
 </a>
 
 <br><br><br>
